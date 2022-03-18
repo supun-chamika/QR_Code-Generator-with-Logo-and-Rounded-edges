@@ -1,4 +1,4 @@
-# pip3 install qrcode Pillow
+# pip3 install qrcode
 
 # import essential libraries
 import qrcode
